@@ -3,4 +3,4 @@
 
  I made different functions to insert and remove the different content elements using javascript and DOM.
 
- Here is a link to the [site]
+ Here is a link to the [site](https://dominator-king.github.io/Random-Content-Generator/)
